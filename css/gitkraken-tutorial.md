@@ -98,11 +98,11 @@ Submit changes on the origin branch if you want the changes to reflect in the ma
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-pull.png" alt="create a pull request" />
+
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="assets/compare-pull.png" alt="create a pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
